@@ -1,0 +1,21 @@
+ILUSTRACIONES Y MARCA
+
+Se conservan las ilustraciones originales de la app y su estética crema,
+marrón y gris. Se añaden diez esquemas vectoriales SVG para explicar los
+nuevos contenidos. Son dibujos conceptuales, sin escala: no permiten medir
+ni montar una solución constructiva a partir de la imagen.
+
+La marca pequeña es img/marca.png, el archivo original de barras rojas.
+No se ha redibujado. Todos los SVG llevan incrustada esa marca en la esquina
+inferior izquierda, sustituyendo el logotipo alargado anterior.
+
+En las ocho ilustraciones PNG originales, la app recorta visualmente la
+franja inferior con el logotipo alargado y superpone la marca pequeña correcta.
+Los PNG originales se conservan intactos: al abrirlos directamente fuera de
+la app no se aplican el recorte ni la superposición. El encabezado de la app
+mantiene el logotipo completo original.
+
+Los textos alternativos describen los esquemas. Las preguntas contienen la
+información necesaria para responder sin depender exclusivamente de verlos.
+Los colores identifican capas dentro de los dibujos, no un código universal
+de prestaciones de materiales.

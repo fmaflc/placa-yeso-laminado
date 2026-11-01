@@ -1,0 +1,74 @@
+PLACA DE YESO LAMINADO · VERSIÓN REVISADA Y AMPLIADA
+
+CONTENIDO
+34 fichas de contenido: las 24 originales revisadas y diez nuevas:
+  - Recibir, acopiar y mover las placas.
+  - Bandas, sellados y encuentros.
+  - Prever refuerzos para las cargas.
+  - Techos suspendidos de PYL.
+  - Trasdosados: revestir una pared.
+  - Zonas húmedas y contacto con agua.
+  - Niveles de acabado Q1 a Q4.
+  - Coordinar pasos y registros.
+  - Juntas y encuentros con movimiento.
+  - Comprobar antes de cerrar y entregar.
+
+Se conservan los cuatro casos de repaso originales y sus direcciones, ahora
+con autocorrección real. La portada contiene 38 entradas: 34 fichas y 4 casos.
+Los números de las primeras 24 fichas se conservan; los nuevos contenidos
+ocupan del 25 al 34 y los casos pasan del 35 al 38.
+
+Se han precisado aspectos del contenido anterior: identificación por marcado,
+prestaciones del sistema completo, selección de tornillos, cabeza ligeramente
+rehundida con cartón intacto, fijaciones y cargas, límites del detector, pastas,
+tratamiento de juntas, fisuras y reparaciones compatibles.
+No se presentan separaciones, anclajes o distancias de reposición como reglas
+universales. Deben consultarse proyecto, sistema y producto concretos.
+
+EJERCICIOS
+38 ejercicios autocorregibles: uno por cada ficha de contenido más los cuatro
+casos de repaso. Cada actividad tiene tres alternativas, botón Comprobar,
+pista, explicación, repetición, enlace de repaso y navegación.
+El listado agrupa las actividades y muestra los logros alcanzados.
+El ejemplo de superficie usa dimensiones dadas y unidades explícitas; no
+calcula por sí solo un pedido real ni prescribe el despiece.
+
+BÚSQUEDA Y PROGRESO
+La búsqueda admite varias palabras y funciona sin escribir las tildes.
+Puedes marcar puntos y fichas repasadas. Los ejercicios superados y esas
+marcas se guardan en el navegador de ese dispositivo; no hay cuentas ni envío
+de respuestas. Los intentos y pistas abiertos solo duran la sesión.
+El listado permite reiniciar ejercicios tras confirmarlo, conservando el
+repaso de fichas. Borrar los datos del sitio elimina el progreso; no se
+sincroniza entre dispositivos. Si el navegador no permite guardar, aparece
+un aviso y los datos solo duran la sesión.
+
+PUBLICAR LA APP
+1. Descomprime el ZIP.
+2. Publica todo su contenido, con index.html en la raíz junto a data.js,
+   app.js, ejercicios.js, la carpeta img y .nojekyll.
+3. No subas el ZIP como único archivo de un repositorio.
+
+Cloudflare Pages: para subida directa, carga la carpeta descomprimida al crear
+o actualizar el proyecto y publica el despliegue.
+Netlify: arrastra la carpeta descomprimida a la zona de subida manual del sitio.
+GitHub Pages: sube los archivos a la raíz del repositorio, confirma los cambios
+y configura Settings > Pages > Deploy from a branch > main > / (root) > Save.
+Si Pages ya estaba configurado, actualiza los archivos y espera al despliegue.
+Si aparece la versión antigua tras actualizar, recarga sin caché.
+No requiere instalación, compilación, base de datos ni claves.
+
+USO FORMATIVO
+Las ilustraciones y esquemas no tienen escala ni son detalles de ejecución.
+No determinan cargas admisibles, anclajes, espesores, distancias ni tolerancias.
+La práctica requiere el docente, la evaluación preventiva, documentación y
+manuales del equipo y productos concretos. Superar ejercicios o marcar puntos
+no acredita formación ni certifica comprobaciones de obra.
+Las referencias de fabricantes dentro de cada ficha son apoyo y ejemplos;
+no deben mezclarse productos de distintos sistemas sin verificar compatibilidad.
+
+COMPROBACIÓN
+Se han comprobado las tres opciones de las 38 actividades (114 casos) y la
+repetición. En navegador se han verificado búsqueda con filtro, marcado de
+repaso, recarga y persistencia, error, acierto, pista, repetición, reinicio,
+acceso desde un caso original, imágenes y presentación con ancho de móvil.
